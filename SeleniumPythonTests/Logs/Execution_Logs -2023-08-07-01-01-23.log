@@ -1,0 +1,49 @@
+2023-08-07 01:01:23,188 : INFO : SeleniumPythonTests.LoggerMS : chrome
+2023-08-07 01:01:23,326 : INFO : SeleniumPythonTests.LoggerMS : Operating System: Windows
+2023-08-07 01:01:23,326 : INFO : SeleniumPythonTests.LoggerMS : Operating System: Windows
+2023-08-07 01:01:23,327 : INFO : SeleniumPythonTests.LoggerMS : User Name: TYC1121726SUHAS
+2023-08-07 01:01:23,327 : INFO : SeleniumPythonTests.LoggerMS : User Name: TYC1121726SUHAS
+2023-08-07 01:01:23,327 : INFO : SeleniumPythonTests.LoggerMS : User Name: TYC1121726SUHAS
+2023-08-07 01:01:23,327 : INFO : SeleniumPythonTests.LoggerMS : OS Base version: 10
+2023-08-07 01:01:23,327 : INFO : SeleniumPythonTests.LoggerMS : OS Base version: 10
+2023-08-07 01:01:23,327 : INFO : SeleniumPythonTests.LoggerMS : OS Base version: 10
+2023-08-07 01:01:23,327 : INFO : SeleniumPythonTests.LoggerMS : OS Base version: 10
+2023-08-07 01:01:23,338 : INFO : SeleniumPythonTests.LoggerMS : OS Sub Version: 10.0.22000
+2023-08-07 01:01:23,338 : INFO : SeleniumPythonTests.LoggerMS : OS Sub Version: 10.0.22000
+2023-08-07 01:01:23,338 : INFO : SeleniumPythonTests.LoggerMS : OS Sub Version: 10.0.22000
+2023-08-07 01:01:23,338 : INFO : SeleniumPythonTests.LoggerMS : OS Sub Version: 10.0.22000
+2023-08-07 01:01:23,338 : INFO : SeleniumPythonTests.LoggerMS : OS Sub Version: 10.0.22000
+2023-08-07 01:01:23,339 : INFO : SeleniumPythonTests.LoggerMS : Machine: AMD64
+2023-08-07 01:01:23,339 : INFO : SeleniumPythonTests.LoggerMS : Machine: AMD64
+2023-08-07 01:01:23,339 : INFO : SeleniumPythonTests.LoggerMS : Machine: AMD64
+2023-08-07 01:01:23,339 : INFO : SeleniumPythonTests.LoggerMS : Machine: AMD64
+2023-08-07 01:01:23,339 : INFO : SeleniumPythonTests.LoggerMS : Machine: AMD64
+2023-08-07 01:01:23,339 : INFO : SeleniumPythonTests.LoggerMS : Machine: AMD64
+2023-08-07 01:01:23,340 : INFO : SeleniumPythonTests.LoggerMS : Processor: AMD64 Family 23 Model 24 Stepping 1, AuthenticAMD
+2023-08-07 01:01:23,340 : INFO : SeleniumPythonTests.LoggerMS : Processor: AMD64 Family 23 Model 24 Stepping 1, AuthenticAMD
+2023-08-07 01:01:23,340 : INFO : SeleniumPythonTests.LoggerMS : Processor: AMD64 Family 23 Model 24 Stepping 1, AuthenticAMD
+2023-08-07 01:01:23,340 : INFO : SeleniumPythonTests.LoggerMS : Processor: AMD64 Family 23 Model 24 Stepping 1, AuthenticAMD
+2023-08-07 01:01:23,340 : INFO : SeleniumPythonTests.LoggerMS : Processor: AMD64 Family 23 Model 24 Stepping 1, AuthenticAMD
+2023-08-07 01:01:23,340 : INFO : SeleniumPythonTests.LoggerMS : Processor: AMD64 Family 23 Model 24 Stepping 1, AuthenticAMD
+2023-08-07 01:01:23,340 : INFO : SeleniumPythonTests.LoggerMS : Processor: AMD64 Family 23 Model 24 Stepping 1, AuthenticAMD
+2023-08-07 01:01:26,338 : INFO : SeleniumPythonTests.LoggerMS : CHROME Browser Launched
+2023-08-07 01:01:26,338 : INFO : SeleniumPythonTests.LoggerMS : CHROME Browser Launched
+2023-08-07 01:01:26,338 : INFO : SeleniumPythonTests.LoggerMS : CHROME Browser Launched
+2023-08-07 01:01:26,338 : INFO : SeleniumPythonTests.LoggerMS : CHROME Browser Launched
+2023-08-07 01:01:26,338 : INFO : SeleniumPythonTests.LoggerMS : CHROME Browser Launched
+2023-08-07 01:01:26,338 : INFO : SeleniumPythonTests.LoggerMS : CHROME Browser Launched
+2023-08-07 01:01:26,338 : INFO : SeleniumPythonTests.LoggerMS : CHROME Browser Launched
+2023-08-07 01:01:26,349 : INFO : SeleniumPythonTests.LoggerMS : Launcing application --https://www.google.com
+2023-08-07 01:01:26,349 : INFO : SeleniumPythonTests.LoggerMS : Launcing application --https://www.google.com
+2023-08-07 01:01:26,349 : INFO : SeleniumPythonTests.LoggerMS : Launcing application --https://www.google.com
+2023-08-07 01:01:26,349 : INFO : SeleniumPythonTests.LoggerMS : Launcing application --https://www.google.com
+2023-08-07 01:01:26,349 : INFO : SeleniumPythonTests.LoggerMS : Launcing application --https://www.google.com
+2023-08-07 01:01:26,349 : INFO : SeleniumPythonTests.LoggerMS : Launcing application --https://www.google.com
+2023-08-07 01:01:26,349 : INFO : SeleniumPythonTests.LoggerMS : Launcing application --https://www.google.com
+2023-08-07 01:01:26,352 : INFO : SeleniumPythonTests.LoggerMS : Reading data from excell--C:\Users\USER\Downloads\TestDataSheet.xlsx
+2023-08-07 01:01:26,352 : INFO : SeleniumPythonTests.LoggerMS : Reading data from excell--C:\Users\USER\Downloads\TestDataSheet.xlsx
+2023-08-07 01:01:26,352 : INFO : SeleniumPythonTests.LoggerMS : Reading data from excell--C:\Users\USER\Downloads\TestDataSheet.xlsx
+2023-08-07 01:01:26,352 : INFO : SeleniumPythonTests.LoggerMS : Reading data from excell--C:\Users\USER\Downloads\TestDataSheet.xlsx
+2023-08-07 01:01:26,352 : INFO : SeleniumPythonTests.LoggerMS : Reading data from excell--C:\Users\USER\Downloads\TestDataSheet.xlsx
+2023-08-07 01:01:26,352 : INFO : SeleniumPythonTests.LoggerMS : Reading data from excell--C:\Users\USER\Downloads\TestDataSheet.xlsx
+2023-08-07 01:01:26,352 : INFO : SeleniumPythonTests.LoggerMS : Reading data from excell--C:\Users\USER\Downloads\TestDataSheet.xlsx

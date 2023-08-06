@@ -1,0 +1,6 @@
+2023-08-07 01:01:53,832 : INFO : SeleniumPythonTests.LoggerMS : CHROME Browser Launched
+2023-08-07 01:01:53,838 : INFO : SeleniumPythonTests.LoggerMS : Launcing application --https://www.google.com
+2023-08-07 01:01:53,838 : INFO : SeleniumPythonTests.LoggerMS : Launcing application --https://www.google.com
+2023-08-07 01:01:53,840 : INFO : SeleniumPythonTests.LoggerMS : Reading data from excell--C:\Users\USER\Downloads\TestDataSheet.xlsx
+2023-08-07 01:01:53,840 : INFO : SeleniumPythonTests.LoggerMS : Reading data from excell--C:\Users\USER\Downloads\TestDataSheet.xlsx
+2023-08-07 01:01:53,840 : INFO : SeleniumPythonTests.LoggerMS : Reading data from excell--C:\Users\USER\Downloads\TestDataSheet.xlsx

@@ -1,0 +1,1 @@
+2023-08-07 00:31:16.747 | INFO     | POM.test_loggers:test_basiclogging:25 - hai
